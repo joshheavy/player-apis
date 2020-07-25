@@ -4,10 +4,10 @@ video player history - basically stores the history of a media player
 
 
 ## installation
-pip install pipenv
-pipenv install pipfile
-pipenv shell
-python manage.py runserver
+* pip install pipenv
+* pipenv install pipfile
+* pipenv shell
+* python manage.py runserver
 
 
 ## Contributing
